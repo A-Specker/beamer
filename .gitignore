@@ -1,0 +1,6 @@
+build/
+gray_images/bild/
+cmake-build-debug/
+gray_images/cmake-build-debug/
+.idea/
+gray_images/.idea/
